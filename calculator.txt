@@ -1,0 +1,5 @@
+Calculator Project
+
+Features:
+- Addition
+- Subtraction
